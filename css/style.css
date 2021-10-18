@@ -1,0 +1,5 @@
+#email:focus, #password:focus ,#mobile:focus {
+ 
+    border: 2px solid orange;
+    box-shadow: 1px 0px 2px orange;
+}
